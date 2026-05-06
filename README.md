@@ -6,6 +6,8 @@ English to Afrikaans machine translation using fine-tuned MarianMT.
 
 ```bash
 The dataset belongs to Stellenbosch University and has not been uploaded in this repo.
+
+Please upload it in the ee_mt.v0.1/ folder
 ```
 
 ```bash
