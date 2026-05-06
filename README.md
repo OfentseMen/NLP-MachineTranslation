@@ -5,6 +5,10 @@ English to Afrikaans machine translation using fine-tuned MarianMT.
 ## Setup
 
 ```bash
+The dataset belongs to Stellenbosch University and has not been uploaded in this repo.
+```
+
+```bash
 pip install -r requirements.txt
 ```
 
